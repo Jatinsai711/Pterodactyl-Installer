@@ -89,7 +89,7 @@ You must be precise when using this script. 1 typo and everything can go wrong.
 It also needs to be run on a fresh version of Ubuntu or Debian.
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/guldkage/Pterodactyl-Installer/main/autoinstall.sh)  <fqdn> <ssl> <email> <username> <firstname <lastname> <password> <wings>
+bash <(curl -s https://raw.githubusercontent.com/Jatinsai711/Pterodactyl-Installer/main/autoinstall.sh)  <fqdn> <ssl> <email> <username> <firstname <lastname> <password> <wings>
 ```
 
 # Community Scripts (Unofficial)
